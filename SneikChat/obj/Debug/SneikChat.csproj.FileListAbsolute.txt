@@ -1,0 +1,15 @@
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\bin\Debug\SneikChat.exe.config
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\bin\Debug\SneikChat.exe
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\bin\Debug\SneikChat.pdb
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.Properties.Resources.resources
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.VentanaPrincipal.resources
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.csproj.GenerateResource.Cache
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.exe
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.pdb
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.Usuario.resources
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.EditarUsuario.resources
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.AcercaDe.resources
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.EditarIP.resources
+C:\Users\Adrian\source\repos\SneikChat\SneikChat\obj\Debug\SneikChat.EditarPuerto.resources
